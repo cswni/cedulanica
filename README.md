@@ -1,2 +1,2 @@
-# Generar letra para cedula
-Generar letra a un numero de cedula nicaraguense
+# Generar letra para cédula
+Generar letra a un número de cédula nicaragüense
